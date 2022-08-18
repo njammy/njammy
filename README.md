@@ -1,4 +1,4 @@
-### Hi, i'm a TALENT.
+### Yo.
 
 <!--START_SECTION:waka-->
 
